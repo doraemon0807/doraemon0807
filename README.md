@@ -5,6 +5,9 @@ I'm currently working in dynamic and fast-paced team environment, focusing on te
 
 I love building my own projects and implementing newly learned features.
 
+Check out my full-responsive portfolio at <a target="_blank" href="https://hong-portfolio.vercel.app/">https://hong-portfolio.vercel.app/</a>
+
+
 <img width=320 align="center" src="https://github-readme-stats.vercel.app/api?username=doraemon0807&show_icons=true&hide=stars,issues&hide_rank=true&include_all_commits=true" />
 <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doraemon0807&layout=compact&exclude_repo=ronacorona-dashboard" />
   
