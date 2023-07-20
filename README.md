@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, I'm Yun ✨
+
+I'm a self-taught **full stack web developer** based in Montréal QC.
+I'm currently working in dynamic and fast-paced team environment, focusing on team management and supervision in video gaming industry.
+
+I love building my own projects and implementing newly learned features.
+
+
+![Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=doraemon0807&show_icons=true&hide=stars,issues&rank_icon=github&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doraemon0807&layout=compact&exclude_repo=ronacorona-dashboard)
 
 <!--
 **doraemon0807/doraemon0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
