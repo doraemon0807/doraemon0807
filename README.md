@@ -5,10 +5,10 @@ I'm currently working in dynamic and fast-paced team environment, focusing on te
 
 I love building my own projects and implementing newly learned features.
 
-
-![Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=doraemon0807&show_icons=true&hide=stars,issues&rank_icon=github&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doraemon0807&layout=compact&exclude_repo=ronacorona-dashboard)
+<img width=320 align="center" src="https://github-readme-stats.vercel.app/api?username=doraemon0807&show_icons=true&hide=stars,issues&hide_rank=true&include_all_commits=true" />
+<img width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doraemon0807&layout=compact&exclude_repo=ronacorona-dashboard" />
+  
+  
 
 <!--
 **doraemon0807/doraemon0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
