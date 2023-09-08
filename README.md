@@ -1,11 +1,11 @@
 ### Hello, I'm Yun ✨
 
-I'm a self-taught **full stack web developer** located in Montréal, QC. 
+I'm a self-employed **full stack web developer** located in Montréal, QC. 
 Currently, I thrive in a dynamic and fast-paced team environment, with a focus on team management and supervision within the video gaming industry.
 
 My passion lies in creating my own projects and seamlessly integrating new features I've learned. 
 
-Feel free to explore my comprehensive, fully-responsive portfolio at <a target="_blank" href="https://hong-portfolio.vercel.app/">https://hong-portfolio.vercel.app/</a>.
+Feel free to explore my fully-responsive portfolio at <a target="_blank" href="https://hong-portfolio.vercel.app/">https://hong-portfolio.vercel.app/</a>.
 
 
 <img width=320 align="center" src="https://github-readme-stats.vercel.app/api?username=doraemon0807&show_icons=true&hide=stars,issues&hide_rank=true" />
