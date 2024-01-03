@@ -1,6 +1,6 @@
 ### Hello, I'm Yun ✨
 
-I'm a self-employed **full stack web developer** located in Montréal, QC. 
+I'm a self-employed **full stack web developer** located in Burnaby, BC. 
 Currently, I thrive in a dynamic and fast-paced team environment, with a focus on team management and supervision within the video gaming industry.
 
 My passion lies in creating my own projects and seamlessly integrating new features I've learned. 
